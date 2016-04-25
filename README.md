@@ -1,0 +1,4 @@
+#single_manyRecords
+单流多画面
+提交到这里面的路径可能不对。
+主要用到flash播放器还有对外提供接口的js
